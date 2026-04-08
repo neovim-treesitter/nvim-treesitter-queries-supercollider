@@ -1,6 +1,6 @@
 {
+  "lang": "supercollider",
   "url": "https://github.com/madskjeldgaard/tree-sitter-supercollider",
   "semver": false,
-  "parser_version": "2b03ff49dd19b046add072d0861c4d1ca8a384c8",
-  "lang": "supercollider"
+  "parser_version": "2b03ff49dd19b046add072d0861c4d1ca8a384c8"
 }
